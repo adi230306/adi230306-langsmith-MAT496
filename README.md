@@ -44,3 +44,5 @@
 ## Learnings from Module 2 (Lec 3)
 - This demonstrates running experiments in LangSmith - systematically testing AI applications against datasets with custom evaluators to measure performance, compare model versions, and track improvements over time through automated evaluation workflows.
 
+<img width="2878" height="1638" alt="image" src="https://github.com/user-attachments/assets/13a2ecaa-ced4-413e-bb2d-6204264b1ced" />
+
