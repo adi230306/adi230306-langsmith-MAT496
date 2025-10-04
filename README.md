@@ -39,3 +39,8 @@
 ---
 ## Learnings from Module 2 (Lec 2)
 - This demonstrates LLM-as-judge evaluation - using an LLM to automatically score and evaluate AI responses against expected outputs, which is fundamental for automated testing and quality assurance of AI systems
+
+---
+## Learnings from Module 2 (Lec 3)
+- This demonstrates running experiments in LangSmith - systematically testing AI applications against datasets with custom evaluators to measure performance, compare model versions, and track improvements over time through automated evaluation workflows.
+
