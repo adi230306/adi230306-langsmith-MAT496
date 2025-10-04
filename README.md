@@ -10,3 +10,6 @@
 - (What I implemented) The examples demonstrate how to progressively instrument Python functions with LangSmith's @traceable decorator, starting from basic function tracing and advancing to adding static metadata, runtime metadata, and finally chaining multiple traced functions to monitor complete workflows for comprehensive observability
 
 ---
+## Learnings from Module 1 (Lec 2)
+- This notebook demonstrates how to use LangSmith's specialized run types (LLM, Retriever, Tool, Chain) with proper formatting for optimal tracing and visualization. It covers LLM run requirements for chat models, streaming responses with reduce functions, document retrieval formatting, and tool calling workflows. Each section shows how to configure different run types with appropriate metadata and output structures for LangSmith's enhanced trace rendering
+- These examples demonstrate specialized run types - the first creates an LLM run with a comedian personality that generates political humor, while the second implements a retriever run that fetches Trump jokes from a simulated database, both properly formatted for LangSmith's specialized tracing and visualization features
