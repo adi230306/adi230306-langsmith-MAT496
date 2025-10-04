@@ -21,3 +21,9 @@
 - This notebook explores alternative LangSmith tracing methods beyond the @traceable decorator, including automatic tracing for LangChain/LangGraph with environment variables, context managers for granular code block tracing, OpenAI client wrapping for automatic LLM call tracing, and the advanced RunTree API for manual trace construction with maximum control.
   
 - These examples demonstrate alternative tracing methods - the first uses a context manager for granular control over specific code blocks, while the second shows automatic tracing with wrapped OpenAI clients that eliminates the need for manual decorators.
+
+---
+## Learnings from Module 1 (Lec 4)
+- This notebook demonstrates how to use LangSmith's Threads feature to group related traces into conversational sequences for multi-turn chatbot applications. It shows how to create unique thread IDs and associate multiple traces together using metadata fields like thread_id, session_id, or conversation_id to maintain conversation context across interactions
+  
+- These examples demonstrate conversational threading - the first creates a customer support chat that maintains context across multiple turns, while the second shows a recipe assistant that tracks a cooking session through sequential steps, both using thread IDs to group related traces in LangSmith.
