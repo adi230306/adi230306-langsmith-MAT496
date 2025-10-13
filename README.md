@@ -48,5 +48,15 @@
 
 ---
 ## Learnings from Module 3 (Lec 1)
--  learned that prompt templates are better than fixed prompts because you can change parts of them easily. I used the LangSmith Playground to test different AI models and instructions. I saw that changing the main instruction completely changes the result. I also learned how to make the AI give me answers in a specific format, and how to test it with different questions to see how well it works.
+- I learned that prompt templates are better than fixed prompts because you can change parts of them easily. I used the LangSmith Playground to test different AI models and instructions. I saw that changing the main instruction completely changes the result. I also learned how to make the AI give me answers in a specific format, and how to test it with different questions to see how well it works.
+<img width="1179" height="221" alt="Screenshot 2025-10-13 at 10 37 16 PM" src="https://github.com/user-attachments/assets/984f1836-f5c0-46be-ba0d-557fc31074d0" />
+
+-  I created my own example dataset about CCC courses and followed all the steps as shown in the video(as shown above).
 - Link: https://github.com/adi230306/adi230306-langsmith-MAT496/blob/main/playground_experiments.ipynb
+
+---
+## Learnings from Module 3 (Lec 2)
+-  I learned about The LangSmith Prompt Hub which is a library for your prompt templates. These templates contains the conversation flow (like system or user messages) and model settings, and can include variables and an output format. I can now pull prompts from the prompt hub and make changes to it or a specific commit of it using code.
+-  I made a prompt using prompt hub and then pulled it and used it in my code using different methods. I also pushed a prompt from my notebook which was a hindi speaking assistant using different methods.
+
+- Link: https://github.com/adi230306/adi230306-langsmith-MAT496/blob/main/prompt_hub.ipynb
