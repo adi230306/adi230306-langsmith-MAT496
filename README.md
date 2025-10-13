@@ -60,3 +60,11 @@
 -  I made a prompt using prompt hub and then pulled it and used it in my code using different methods. I also pushed a prompt from my notebook which was a hindi speaking assistant using different methods.
 
 - Link: https://github.com/adi230306/adi230306-langsmith-MAT496/blob/main/prompt_hub.ipynb
+
+---
+## Learnings from Module 3 (Lec 3)
+-  I learnt how to iterate on an application prompt using the Playground and Prompt Hub. A powerful feature is that the code automatically syncs with the latest committed version of the prompt. This means you can continuously edit and refine the prompt within LangSmith without making any further code changes.
+-  I made a custom example dataset related to Attack on Titan and also created a custom prompt with context and question variables related to the same. Then I used PromptHub and Playground to iterate over a particular prompt taken from the code itself
+<img width="1208" height="453" alt="Screenshot 2025-10-13 at 11 06 41 PM" src="https://github.com/user-attachments/assets/90eca9ec-1bad-45fc-ba9a-81788ed62d73" />
+
+- Link: https://github.com/adi230306/adi230306-langsmith-MAT496/blob/main/prompt_engineering_lifecycle.ipynb
