@@ -46,3 +46,7 @@
 
 <img width="2878" height="1638" alt="image" src="https://github.com/user-attachments/assets/13a2ecaa-ced4-413e-bb2d-6204264b1ced" />
 
+---
+## Learnings from Module 3 (Lec 1)
+-  learned that prompt templates are better than fixed prompts because you can change parts of them easily. I used the LangSmith Playground to test different AI models and instructions. I saw that changing the main instruction completely changes the result. I also learned how to make the AI give me answers in a specific format, and how to test it with different questions to see how well it works.
+- Link: https://github.com/adi230306/adi230306-langsmith-MAT496/blob/main/playground_experiments.ipynb
